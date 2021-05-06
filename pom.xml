@@ -15,6 +15,9 @@
         <module>gmail-order</module>
         <module>gmail-product</module>
         <module>gmail-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>gmail-common</module>
     </modules>
 
 </project>
